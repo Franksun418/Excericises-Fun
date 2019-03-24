@@ -1,0 +1,9 @@
+C:\Users\Sun\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\Sun\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Sun\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Sun\source\repos\Exercise4\Exercise4\bin\Debug\ConsoleCards.dll
+C:\Users\Sun\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CopyComplete
+C:\Users\Sun\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Sun\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.pdb

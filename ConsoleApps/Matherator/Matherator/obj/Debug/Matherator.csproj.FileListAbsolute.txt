@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\Matherator\Matherator\bin\Debug\Matherator.exe.config
+C:\Users\Sun\source\repos\Matherator\Matherator\bin\Debug\Matherator.exe
+C:\Users\Sun\source\repos\Matherator\Matherator\bin\Debug\Matherator.pdb
+C:\Users\Sun\source\repos\Matherator\Matherator\obj\Debug\Matherator.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\Matherator\Matherator\obj\Debug\Matherator.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\Matherator\Matherator\obj\Debug\Matherator.exe
+C:\Users\Sun\source\repos\Matherator\Matherator\obj\Debug\Matherator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\Exercise5\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\Sun\source\repos\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\Sun\source\repos\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\Sun\source\repos\Exercise5\Exercise5\obj\Debug\Exercise5.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\Exercise5\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\Sun\source\repos\Exercise5\Exercise5\obj\Debug\Exercise5.pdb

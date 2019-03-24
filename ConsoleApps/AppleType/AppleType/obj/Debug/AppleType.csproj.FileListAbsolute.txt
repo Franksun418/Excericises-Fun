@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\AppleType\AppleType\bin\Debug\AppleType.exe.config
+C:\Users\Sun\source\repos\AppleType\AppleType\bin\Debug\AppleType.exe
+C:\Users\Sun\source\repos\AppleType\AppleType\bin\Debug\AppleType.pdb
+C:\Users\Sun\source\repos\AppleType\AppleType\obj\Debug\AppleType.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\AppleType\AppleType\obj\Debug\AppleType.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\AppleType\AppleType\obj\Debug\AppleType.exe
+C:\Users\Sun\source\repos\AppleType\AppleType\obj\Debug\AppleType.pdb

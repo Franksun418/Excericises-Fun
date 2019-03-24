@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\bin\Debug\KeepingtheOdd.exe.config
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\bin\Debug\KeepingtheOdd.exe
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\bin\Debug\KeepingtheOdd.pdb
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\obj\Debug\KeepingtheOdd.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\obj\Debug\KeepingtheOdd.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\obj\Debug\KeepingtheOdd.exe
+C:\Users\Sun\source\repos\KeepingtheOdd\KeepingtheOdd\obj\Debug\KeepingtheOdd.pdb
