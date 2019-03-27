@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\bin\Debug\TheUserIsCrazy.exe.config
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\bin\Debug\TheUserIsCrazy.exe
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\bin\Debug\TheUserIsCrazy.pdb
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\obj\Debug\TheUserIsCrazy.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\obj\Debug\TheUserIsCrazy.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\obj\Debug\TheUserIsCrazy.exe
+C:\Users\Sun\source\repos\TheUserIsCrazy\TheUserIsCrazy\obj\Debug\TheUserIsCrazy.pdb

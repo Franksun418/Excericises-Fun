@@ -1,0 +1,7 @@
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\bin\Debug\PracticeWithTextFiles.exe.config
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\bin\Debug\PracticeWithTextFiles.exe
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\bin\Debug\PracticeWithTextFiles.pdb
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\obj\Debug\PracticeWithTextFiles.csprojAssemblyReference.cache
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\obj\Debug\PracticeWithTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\obj\Debug\PracticeWithTextFiles.exe
+C:\Users\Sun\source\repos\PracticeWithTextFiles\PracticeWithTextFiles\obj\Debug\PracticeWithTextFiles.pdb
