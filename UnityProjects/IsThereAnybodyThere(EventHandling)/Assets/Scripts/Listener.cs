@@ -11,7 +11,7 @@ public class Listener : MonoBehaviour
         EventManager.AddIntListener(HowDareYou);
     }
     void TryMeSoft() {
-        print("fk off!");
+        print("lol");
     }
 
     void HowDareYou(int lalala) {

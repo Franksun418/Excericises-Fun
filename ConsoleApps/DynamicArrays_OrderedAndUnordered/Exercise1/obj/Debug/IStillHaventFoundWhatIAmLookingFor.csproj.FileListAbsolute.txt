@@ -1,0 +1,7 @@
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\obj\Debug\IStillHaventFoundWhatIAmLookingFor.csprojAssemblyReference.cache
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\obj\Debug\IStillHaventFoundWhatIAmLookingFor.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Sun\Downloads\_3b65525b1c3536c91aeff0a468e858c7_1-2-Visual-Studio-Exercise-1-Materials\Exercise1\Exercise1\obj\Debug\Exercise1.pdb

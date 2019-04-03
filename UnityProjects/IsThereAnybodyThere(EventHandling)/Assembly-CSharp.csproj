@@ -63,9 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\Events\EventA.cs" />
     <Compile Include="Assets\Events\EventB.cs" />
+    <Compile Include="Assets\MainGame.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\EventManager.cs" />
     <Compile Include="Assets\Scripts\Invoker.cs" />
     <Compile Include="Assets\Scripts\Listener.cs" />
+    <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\MenuNames.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Sun/Documents/GitHub/Excericise-Fun/UnityProjects/IsThereAnybodyThere(EventHandling)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
